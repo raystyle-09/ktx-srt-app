@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private WebView webView;
 
     // ★★★ 여기에 본인 NAS 주소를 입력하세요 ★★★
-    private static final String SERVER_URL = "http://ray-disk.asuscomm.com:5080";
+    private static final String SERVER_URL = "https://ray-disk.asuscomm.com:5443";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
